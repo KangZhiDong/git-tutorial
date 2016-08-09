@@ -2,6 +2,10 @@
 
 
 	- feature-A
-
+	
 	- fix-B
+	
+	- faeture-c 
 
+
+	-feature-C
